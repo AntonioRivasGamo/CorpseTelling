@@ -1,0 +1,3 @@
+Info v2:
+- El plugin ahora se conecta mediante un socket a la interfaz en el puerto 5000
+- El plugin modifica hora, dificultad y tiempo meteorológico.

@@ -1,0 +1,3 @@
+Info v3:
+- Optimización general del código.
+- Pestaña para comandos añadida.

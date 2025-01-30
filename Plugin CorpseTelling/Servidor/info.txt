@@ -1,0 +1,3 @@
+Info:
+- Usa los puertos 5003 y 5001 para escuchar y el 5002 para mandar.
+- Dependencias especificadas en requirements.txt 

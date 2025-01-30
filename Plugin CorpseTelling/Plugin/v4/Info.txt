@@ -1,0 +1,3 @@
+Info v4:
+- Optimización general del código.
+- Problema con el menú jugadores arreglado.

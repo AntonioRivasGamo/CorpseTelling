@@ -1,0 +1,4 @@
+Info:
+- Comunica el servidor con la aplicación móvil
+- Usa el puerto 5005
+- Dependencias incluidas en requirements.txt

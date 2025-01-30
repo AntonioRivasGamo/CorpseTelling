@@ -1,0 +1,3 @@
+Info v2:
+- La interfaz ahora cuenta con todas sus partes gestionadas por pestañas.
+- Secciones mejor optimizadas.

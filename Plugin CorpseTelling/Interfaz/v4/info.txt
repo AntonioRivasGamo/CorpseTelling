@@ -1,0 +1,4 @@
+Info v4:
+- Optimizaciones generales
+- Trabaja en los puertos 5001 escuchando y 5000 enviando
+- Ofrece una vista más comoda de los registros y gestionar el servidor con una serie de comandos

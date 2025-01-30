@@ -1,0 +1,3 @@
+Info v3:
+- El plugin ahora envía los datos de los jugadores que se conectan.
+- El plugin ahora te permite administrar los jugadores mediante la interfaz.
