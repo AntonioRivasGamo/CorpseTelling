@@ -1,4 +1,4 @@
 Info v4:
-- Optimizaciones generales
-- Trabaja en los puertos 5001 escuchando y 5000 enviando
-- Ofrece una vista más comoda de los registros y gestionar el servidor con una serie de comandos
+General optimizations
+Works on ports 5001 (listening) and 5000 (sending)
+Provides a more convenient view of logs and allows server management with a set of commands
