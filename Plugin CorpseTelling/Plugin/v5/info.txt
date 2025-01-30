@@ -1,5 +1,5 @@
 Info v5:
-- Optimizaciones generales
-- Utiliza el puerto 5000 para escuchar y el 5001 para comunicarse con la interfaz
-- Crea un fichero xml para registrar las muertes. La elección de este formato se da a la posible limitación de la maquina del usuario, no permitiendo el uso de la interfaz. De esta manera el fichero podrá ser leido manualmente.
-- Permite la ejecución de comandos con la interfaz o la aplicación.
+General optimizations.
+Uses port 5000 for listening and 5001 for communication with the interface.
+Creates an XML file to log deaths. This format was chosen due to potential limitations of the user's machine, which may prevent using the interface. This way, the file can be read manually.
+Allows the execution of commands through the interface or the application.
