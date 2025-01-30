@@ -1,3 +1,3 @@
 Info v3:
-- El plugin ahora envía los datos de los jugadores que se conectan.
-- El plugin ahora te permite administrar los jugadores mediante la interfaz.
+The plugin now sends data of connected players.
+The plugin now allows you to manage players through the interface.
