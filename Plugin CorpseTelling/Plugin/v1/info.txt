@@ -1,2 +1,2 @@
 Info v1:
-- Crea un XML con los datos de la muerte.
+Creates an XML file with death data.
