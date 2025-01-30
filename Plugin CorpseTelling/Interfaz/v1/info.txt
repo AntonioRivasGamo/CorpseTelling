@@ -1,5 +1,5 @@
 Info v1:
-- La interfaz está dividida en 3, permitiendo el reajuste de cada sección.
-- La interfaz carga las muertes y las actualiza cada 5 segundos.
-- La interfaz gestiona los jugadores en tiempo real recibiendo por el puerto 5001 los jugadores conectados.
-- La interfaz permite gestionar las variables del servidor (tiempo, dificultad y clima).
+The interface is divided into three sections, allowing each to be adjusted.
+The interface loads deaths and updates them every 5 seconds.
+The interface manages players in real time, receiving connected players through port 5001.
+The interface allows managing server variables (time, difficulty, and weather).
