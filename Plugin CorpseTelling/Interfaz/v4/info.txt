@@ -1,4 +1,0 @@
-Info v4:
-General optimizations
-Works on ports 5001 (listening) and 5000 (sending)
-Provides a more convenient view of logs and allows server management with a set of commands
